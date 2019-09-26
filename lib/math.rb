@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  p 
+  p "#{num1 + num2}"
 end
 
 def subtraction(num1, num2)
